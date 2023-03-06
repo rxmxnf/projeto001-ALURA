@@ -96,7 +96,7 @@ body{
 }
 
 .apresentacao__imagem {
-    width: 50%
+    width: 50%;
 }
 
 .rodape{
@@ -129,7 +129,7 @@ body{
     }
 
     .apresentacao__imagem {
-        width: 50%;
+        padding: 10% 0 0 0;
     }
 
 }
